@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Headphone",
+    "price": 40.99,
+    "imageUrl": "/images/image1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate",
+    "price": 2.99,
+    "imageUrl": "/images/image2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pencil",
+    "price": 1,
+    "imageUrl": "/images/image3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "price": 30.99,
+    "imageUrl": "/images/image4.jpg"
+  }
+]
